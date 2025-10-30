@@ -34,7 +34,6 @@
 
 - **Software Engineering (2023 – present)** — ESPRIT, Tunis  
 - **IT Technologies – Networks & Services (2020 – 2023)** — ISET Sousse  
-- **Baccalaureate in Computer Science (2019)** — Lycée de Mahdia  
 
 ---
 
